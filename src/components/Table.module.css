@@ -1,0 +1,18 @@
+td {
+    border: 1px solid black;
+    height: 100px;
+    width: 100px;
+    font-size: 4rem;
+    text-align: center;
+}
+td:hover{
+    cursor: pointer;
+}
+table {
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.winnerPar{
+   font-size: 2em;
+   text-align: center;
+}
